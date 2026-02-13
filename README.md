@@ -1,4 +1,4 @@
-# 💼 HR-Insight — Tableau de bord RH avec prédiction d'attrition
+# HR-Insight — Tableau de bord RH avec prédiction d'attrition
 
 Un projet complet de **Data Science** et **Business Intelligence RH** combinant :
 
@@ -8,23 +8,23 @@ Un projet complet de **Data Science** et **Business Intelligence RH** combinant 
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 L’objectif est d’offrir un outil interactif permettant :
 
-✅ D’analyser les données RH (satisfaction, revenu, rôle, etc.)  
-✅ De détecter les tendances menant au départ d’un collaborateur  
-✅ De prédire si un employé donné est à risque de quitter l’entreprise
+ D’analyser les données RH (satisfaction, revenu, rôle, etc.)  
+ De détecter les tendances menant au départ d’un collaborateur  
+ De prédire si un employé donné est à risque de quitter l’entreprise
 
 ---
 
-## 📊 Aperçu du dashboard
+##  Aperçu du dashboard
 
 ![Aperçu du dashboard](./assets/dashboard_sample.png) <!-- Ajoute une image plus tard si nécessaire -->
 
 ---
 
-## 🧠 Modèle ML utilisé
+##  Modèle ML utilisé
 
 - **XGBoostClassifier**
 - Traitement des déséquilibres avec **SMOTE**
@@ -33,7 +33,7 @@ L’objectif est d’offrir un outil interactif permettant :
 
 ---
 
-## 🔍 Filtres interactifs disponibles
+##  Filtres interactifs disponibles
 
 - Âge
 - Sexe
@@ -42,7 +42,7 @@ L’objectif est d’offrir un outil interactif permettant :
 
 ---
 
-## 🚀 Lancer l’application localement
+##  Lancer l’application localement
 
 ### 1. Cloner le repo
 
